@@ -1,0 +1,31 @@
+{
+  "name": "supernotif",
+  "version": "0.0.1",
+  "description": "e-mail notification module",
+  "main": "main.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EDMdesigner/supernotif.git"
+  },
+  "keywords": [
+    "email",
+    "notification"
+  ],
+  "author": "EDMdesigner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EDMdesigner/supernotif/issues"
+  },
+  "homepage": "https://github.com/EDMdesigner/supernotif#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jscs": "^3.0.2",
+    "gulp-jscs-stylish": "^1.4.0",
+    "gulp-jshint": "^2.0.1",
+    "gulp-jsonlint": "^1.1.2",
+    "jshint": "^2.9.2"
+  }
+}
